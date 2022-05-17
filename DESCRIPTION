@@ -11,3 +11,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.0.0
 URL: https://github.com/craftbeersci/fermentR
 BugReports: https://github.com/craftbeersci/fermentR/issues
+Imports: 
+    lifecycle
